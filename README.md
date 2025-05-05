@@ -34,8 +34,9 @@ A simple and responsive TODO List application built using **PHP**, **MySQL**, **
     |-- /css
         |-- styles.css   # Custom CSS styles
 
+📸 Demo Screenshot
 
-
+https://github.com/Jayamehta04/TODO-LIST-/blob/ead45bc904fe36deb9f06c14020fa204914b8695/Screenshot%202025-05-05%20211912.png
    
 
 
